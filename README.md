@@ -1,4 +1,4 @@
-# Mvc5KutuphaneYonetimi
+# Kütüphane Yönetim Sistemi
 
 Kullanıcıların kayıt olabildiği , kitap ödünç alabildiği bir web sitesi.
 Admin paneli üzerinden hangi kullanıcının hangi kitabı ödünç aldığı görülebilmekte.
